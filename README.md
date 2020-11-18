@@ -4,4 +4,4 @@
 
 - Udacity course
 
-![Screenshot_of_udacity_course](udacity.png)
+![Screenshot_of_udacity_course](Udacity.png)
